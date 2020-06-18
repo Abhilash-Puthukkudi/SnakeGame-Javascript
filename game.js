@@ -1,4 +1,4 @@
-<script type= "text/javascript" >
+
 		
 		var body = [];
 		var state = 0; // 0 -> RIGHT , 1 -> DOWN , 2 -> LEFT, 3 -> UP;
@@ -187,4 +187,3 @@
 
 		setInterval(update,300);
 
-	</script>
